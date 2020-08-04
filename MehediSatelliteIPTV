@@ -13,14 +13,14 @@ https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla",NTv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/142
+
 #EXTINF:-1 tvg-id="" tvg-name="RTv" tvg-logo="https://lh3.googleusercontent.com/RiRI3w6Tu0zfMOvIVHsV2keLlWvgs63EX4jqoDMZXB9Nu4Xv_116rvVjOOM7ZFT5pw" group-title="Bangla",RTv
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://boishakhionline.com/frontend_source/assets/images/logo.png" group-title="Bangla",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla",NTv
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/142
 
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Vision" tvg-logo="https://2.bp.blogspot.com/-nSAt2ZYVv88/WVgtf_7hEGI/AAAAAAAAJOI/7332rsjOhOk4YWhK_ok-1y5b57iTLaCEACLcBGAs/s1600/bangla%2Bvision.png" group-title="Bangla",Bangla Vision
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
@@ -55,20 +55,17 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangla",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla",Deepto TV
-http://103.205.133.14/hls/deeptotv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="Bangla",Bangla TV
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/665
 
 #EXTINF:-1 tvg-id="" tvg-name="Nagorik" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-b-n3tWCy4xe_62Eofp73qSS-7oaqnSIY7Jw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",Nagorik
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/136
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png/revision/latest?cb=20190224050958" group-title="Bangla",Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla
-http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/192
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/865
@@ -226,6 +223,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/147
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/top-crop/width/220/height/220?cb=20200125181335" group-title="Hindi",Sony Max 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/186
 
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="https://lh3.googleusercontent.com/proxy/E7nlMRWHgouXZGWiWRFUAr8u7k8jaL49l3Cgf2k7oWFfCeuirRhCGTHFmDZj3WARzr0qMv6zGi8tApY3KTaktNrxQcoLVJSgPd_hQ-hRwdtH8YM0zCJdlvPQzfFktQlJzZ2SmcqCStmyzfjY_b5Cq4qgqtvrhy4IwNEWfvvM0EBI4AkA9jSvjAXjeqOWvwxCb6E" group-title="Hindi",Colors Cineplex
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/206
+
 #EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Hindi",B4U Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/651
 
@@ -304,6 +304,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/111
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/202
 
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",Sony Yay
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/734
+
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Music",Gaan Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
 
@@ -321,6 +324,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/163
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/662
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MTV_Dance_2017_logo.png/623px-MTV_Dance_2017_logo.png" group-title="Music",MTV Dance
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/160
 
 #EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xM
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/721
